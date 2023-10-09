@@ -1,4 +1,4 @@
-?php
+<?php
 function volume($luas,$tinggi){
 $volume = $luas * $tinggi;
 
